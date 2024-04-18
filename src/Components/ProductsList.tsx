@@ -1,5 +1,4 @@
 import { Button, Card, Flex, Typography , Image } from 'antd'
-import React from 'react'
 import { PlantData } from '../PlantData'
 
 
