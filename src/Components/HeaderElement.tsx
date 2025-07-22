@@ -10,7 +10,7 @@ const HeaderElement = () => {
   return (
     <Flex align="center" justify="space-between">
       <Typography.Title level={3} type="secondary">
-        Welcome Vasanth
+        Welcome Leaf Org
       </Typography.Title>
 
       <Flex align="center" gap="3rem">
